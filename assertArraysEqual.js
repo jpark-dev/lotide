@@ -1,3 +1,4 @@
+// pair programming with Jas @J-sabharwal
 const eqArrays = function(arr1, arr2) {
 
   if (arr1.length !== arr2.length) {

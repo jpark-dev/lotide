@@ -1,3 +1,4 @@
+// pair programming with Jas @J-sabharwal
 const middle = function(arr) {
   let midIndex = Math.ceil(arr.length / 2 - 1);
   let result = [];
