@@ -20,13 +20,13 @@ const without = require('./without');
 
 // excluding eqObjects, still working on
 // module.exports = {
-//   head, tail, middle, assertArraysEqual, assertEqual, assertObjectsEqual, 
-//   countLetters, countOnly, eqArrays, eqObjects, findKey, findKeyByValue, 
+//   head, tail, middle, assertArraysEqual, assertEqual, assertObjectsEqual,
+//   countLetters, countOnly, eqArrays, eqObjects, findKey, findKeyByValue,
 //   flatten, letterPositions, map, takeUntil, without
 // };
 
 module.exports = {
-  head, tail, middle, assertArraysEqual, assertEqual, assertObjectsEqual, 
-  countLetters, countOnly, eqArrays, findKey, findKeyByValue, 
+  head, tail, middle, assertArraysEqual, assertEqual, assertObjectsEqual,
+  countLetters, countOnly, eqArrays, findKey, findKeyByValue,
   flatten, letterPositions, map, takeUntil, without
 };
