@@ -27,12 +27,11 @@ Also contributed by Jas@Jsabharwal for pair programming
 
 The following functions are currently implemented:
 
-* `assertArraysEqual`: Takes two arrays as parameters, and print whether they are equal or not.
+* (Deprecated) `assertArraysEqual`: Takes two arrays as parameters, and print whether they are equal or not.
 
-* `assertEqual`: Takes two parameters, and print whether they are equal or not.
+* (Deprecated) `assertEqual`: Takes two parameters, and print whether they are equal or not.
 
-  (WARNING: This only compares two primitive types)
-* `assertObjectsEqual`: Takes two objects as parameters, and print whether they are equal or not.
+* (Deprecated) `assertObjectsEqual`: Takes two objects as parameters, and print whether they are equal or not.
 
 * `countLetters`: Takes a string and count the number of letters.
 

@@ -19,6 +19,6 @@ describe('#eqArraysTest', () => {
   });
   it('should return true for given arrays [[2, 3], [4]], [[2, 3], [4]]', () => {
     assert.deepEqual(eqArrays([[2, 3], [4]], [[2, 3], [4]]), true);
-  })
+  });
 });
 

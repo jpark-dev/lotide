@@ -21,12 +21,12 @@ const eqObjects = (object1, object2) => {
     }
     // only objects from here (no arrays)
 
-    // if both values are object, recurse 
-    if (typeof object1[key] === 'object' && typeof object2[key] === 'object'){
+    // if both values are object, recurse
+    if (typeof object1[key] === 'object' && typeof object2[key] === 'object') {
       eqObjects(object1[key], object2[key]);
       
       // if at least one of values is not an object, compare the values
-    } else {   
+    } else {
       if (object1[key] !== object2[key]) {
         return false;
       }
