@@ -20,8 +20,12 @@
     "type": "git",
     "url": "git+https://github.com/zeipar/lotide.git"
   },
-  "author": "Junsung Park",
-  "license": "ISC",
+  "author": {
+    "name": "Junsung Park",
+    "email": "zeipar@gmail.com"
+  },
+    
+    "license": "ISC",
   "bugs": {
     "url": "https://github.com/zeipar/lotide/issues"
   },
