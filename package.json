@@ -1,0 +1,28 @@
+{
+  "name": "@zeipar/lotide",
+  "version": "1.0.1",
+  "description": "A mini clone of the Lodash library@LHL",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeipar/lotide.git"
+  },
+  "author": "Junsung Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeipar/lotide/issues"
+  },
+  "homepage": "https://github.com/zeipar/lotide#readme"
+}
