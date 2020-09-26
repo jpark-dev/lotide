@@ -2,7 +2,7 @@
   "name": "@zeipar/lotide",
   "version": "1.0.2",
   "description": "A mini clone of the Lodash library@LHL",
-  "main": "assertArraysEqual.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -24,8 +24,7 @@
     "name": "Junsung Park",
     "email": "zeipar@gmail.com"
   },
-    
-    "license": "ISC",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/zeipar/lotide/issues"
   },
