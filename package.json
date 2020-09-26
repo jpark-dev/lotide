@@ -1,6 +1,6 @@
 {
   "name": "@zeipar/lotide",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A mini clone of the Lodash library@LHL",
   "main": "index.js",
   "directories": {
